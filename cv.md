@@ -16,7 +16,8 @@ _Skype:_ wolverine2011ua
 
 **My purpose** - become very good front-end developer, create different cool and creative things, help other people to get IT knowledge. I love my friends, like music, films, travels, gym. My hobbies are photo, dancing, athletics - running, participating in competitions, MMA, English, write poems in russian, in ukrainian and in english.<br/>
 ### Experience 
-10.2013 – 03.2020 – assistant director of dentistry.<br/>
+10.2013 – 03.2020 – assistant director of dentistry.
+
 ***Responsibilities:*** 
  1. clinic website support, 
  2. monitoring site reviews, 
@@ -28,9 +29,9 @@ _Skype:_ wolverine2011ua
  8. creating of dentists working schedule.
                  
 ## Skills
-`Good knowledge HTML5 | Good knowledge CSS3 | Understanding of BEM methodology`<br/> 
-`Basic knowledge JavaScript | Knowledge of Github | Basic knowledge Ruby on Rails`<br/> 
-`Understanding of algorithms |`
+***`Good knowledge HTML5 | Good knowledge CSS3 | Understanding of BEM methodology`***<br/> 
+***`Basic knowledge JavaScript | Knowledge of Github | Basic knowledge Ruby on Rails`***<br/> 
+***`Understanding of algorithms |`***
 
 ## Code example
 ```javascript
