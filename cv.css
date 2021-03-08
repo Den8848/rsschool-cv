@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+.main-information {
+    height: 350px;
+    background: grey;
+    text-align: center;
+}
+
+.denys-diedov {
+    padding-top: 10px;
+    color: skyblue;
+}
+
+.my-photo {
+    padding-top: 20px;
+    border-radius: 50%;
+}
+
+.about-myself {
+    border-radius: 50px;
+    height: 300px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: grey;
+    text-align: center;
+}
+
+.about-myself-title {
+    padding-top: 20px;
+    color: skyblue;
+    font-size: 30px;
+}
+
+.my-purpose {
+    padding-top: 20px;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.strong-side-title {
+    height: 20px;
+    font-size: 25px;
+    padding: 30px;
+    color: skyblue;
+}
+
+.ul-list {
+    padding-top: 10px;
+    font-size: 20px;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+}
+
+.exp-skills {
+    display: inline-flex;
+    justify-content: space-between;
+    padding-top: 400px;
+    height: 300px;
+    width: 100%;
+}
+
+.experience-title {
+    padding-top: 10px;
+    font-size: 30px;
+    color: skyblue;
+}
+
+.experience {
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50px;
+    height: 300px;
+    width: 600px;
+    color: antiquewhite;
+    margin-left: 5%;
+    background: grey;
+}
+
+.skills-title {
+    padding-top: 40px;
+    font-size: 30px;
+    color: skyblue;
+}
+
+.skills {
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50px;
+    height: 300px;
+    width: 600px;
+    color: antiquewhite;
+    margin-right: 5%;
+    background: grey;
+}
+
+.assistant {
+    padding-top: 5px;
+}
+
+.resp {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.ol-list {
+    text-align: left;
+    padding-left: 70px;
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-list {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.three-blocks {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    height: 220px;
+    width: 100%;
+}
+
+.education {
+    margin-left: 2%;
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 30px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.educational-education {
+    margin-left: 20px;
+    padding-top: 50px;
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 30px;
+    color: antiquewhite;
+    text-align: center;
+}
+        
+.english {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 50px;
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 30px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.education-title {
+    color: skyblue;
+}
+
+.additional-education-title {
+    color: skyblue;
+}
+
+.english-title {
+    color: skyblue;
+}
+
+.code-practice {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    height: 150px;
+    width: 100%;
+    color: antiquewhite;
+}
+
+.code {
+    height: 150px;
+    width: 350px;
+    margin-left: 300px;
+    padding-top: 10px;
+    padding-left: 5px;
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.practice {
+    height: 150px;
+    width: 600px;
+    margin-right: 200px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.code-example {
+    color: skyblue;
+}
+
+.practice-title {
+    padding-top: 40px;
+    color: skyblue;
+}
+
+.contact-information {
+    border-radius: 50px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background: grey;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 20px;
+}
+
+.contact-information-title {
+    color: skyblue;
+}
